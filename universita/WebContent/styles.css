@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+body {
+	background-image: url("IMAGES/università.png");
+}
+
+img {
+	border: 1px solid black;
+}
+
+table {
+  	border-collapse: collapse;
+}
+
+table, th, td {
+  	border: 1px solid black;
+  	text-align: center;
+}
+
+th {
+	background-color: grey;
+	color: white;
+}
+
+td {
+	background-color: white;
+}
